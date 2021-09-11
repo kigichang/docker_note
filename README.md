@@ -1,5 +1,5 @@
 # docker_note
 
-[常用指令](docker_command.md)
-[Dockerfile](docker_build.md)
+1. [常用指令](docker_command.md)
+1. [Dockerfile](docker_build.md)
 
